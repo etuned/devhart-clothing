@@ -1,8 +1,17 @@
-body, span {
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  padding: 20px 60px;
+}
+
+span {
   font-family: 'Open Sans Condensed', sans-serif;
 }
 
-
 h1 {
   font-family: 'Fredericka the Great', cursive;
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }
