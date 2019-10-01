@@ -1,6 +1,13 @@
+* {
+  margin: 0em;
+  padding: 0em;
+  box-sizing: border-box;
+}
+
 body {
   font-family: 'Open Sans Condensed', sans-serif;
-  padding: 20px 60px;
+  padding: 20px 15px;
+  margin: 0;
 }
 
 span {

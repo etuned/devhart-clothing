@@ -1,12 +1,12 @@
 import React from 'react';
 import SignIn from '../../components/sign-in/sign-in.component'
-import './users.styles.scss';
+import './user-page.styles.scss';
 
-const Users = () => (
+const UserPage = () => (
     <div className='sign-in-and-sign-up'>SIGN IN
     <SignIn/>
     </div>
 
 );
 
-export default Users;
+export default UserPage;
