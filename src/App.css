@@ -1,24 +1,13 @@
-* {
-  margin: 0em;
-  padding: 0em;
-  box-sizing: border-box;
-}
-
 body {
-  font-family: 'Open Sans Condensed', sans-serif;
-  padding: 20px 15px;
-  margin: 0;
-}
-
-span {
-  font-family: 'Open Sans Condensed', sans-serif;
-}
-
-h1 {
-  font-family: 'Fredericka the Great', cursive;
+  font-family: 'Open Sans Condensed';
+  padding: 20px 40px;
 }
 
 a {
   text-decoration: none;
   color: black;
+}
+
+* {
+  box-sizing: border-box;
 }
