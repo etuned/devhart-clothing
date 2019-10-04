@@ -9,8 +9,8 @@ const config = {
   projectId: "devhart-db",
   storageBucket: "devhart-db.appspot.com",
   messagingSenderId: "299110686931",
-  appId: "1:299110686931:web:1887cadf33a419308eb426",
-  measurementId: "G-9Z51Q4FKMM"
+  appId: "1:299110686931:web:54dc312e19269bed8eb426",
+  measurementId: "G-SK741T1P6D"
 };
 
 firebase.initializeApp(config);
