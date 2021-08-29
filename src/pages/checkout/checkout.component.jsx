@@ -36,7 +36,7 @@ const CheckoutPage = ({ cartItems, total }) => (
     ))}
     <div className='total'>TOTAL: ${total}</div>
     <div className='test-warning'>
-      *This is only a demo and does not charge any cards*
+      *This is only a demo and does not charge any cards*<br/>
       *To test, please use the following test credit card for payments*
       <br />
       4242 4242 4242 4242 - Exp: 01/22 - CVV: 123
