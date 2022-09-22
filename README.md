@@ -4,3 +4,4 @@ This project is an Ecommerce website with Stripe intergration, built with React,
 https://dh-clothing.netlify.com
 
 note: I have recently updated this to use typescript, and converted to modern react hooks. Originally this was built in 2019 when Redux and React had different design patterns check the branch 'v2019' to see older version.
+
