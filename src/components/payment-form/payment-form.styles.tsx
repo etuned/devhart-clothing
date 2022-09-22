@@ -14,7 +14,7 @@ export const FormContainer = styled.form`
     @media screen and (max-width: 800px) {
     min-width: 500px;
   }
-  @media screen and (min-width: 400px) {
+  @media screen and (max-width: 400px) {
     min-width: 300px;
   }
 
