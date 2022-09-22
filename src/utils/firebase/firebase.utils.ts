@@ -34,7 +34,7 @@ const firebaseConfig = {
   appId: "1:133733086121:web:9afe5d3443ac2b51604ab8",
   measurementId: "G-LQFGJCMGS3"
 };
-
+// eslint-disable-next-line
 const firebaseApp = initializeApp(firebaseConfig);
 
 const googleProvider = new GoogleAuthProvider();
