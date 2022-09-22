@@ -7,6 +7,12 @@ export const CheckoutContainer = styled.div`
   flex-direction: column;
   align-items: center;
   margin: 50px auto 0;
+    @media screen and (min-width: 800px) {
+       width: 55%;
+    }
+    @media screen and (max-width: 799px) {
+      min-width: 95%;
+    }
 `;
 
 export const CheckoutHeader = styled.div`
