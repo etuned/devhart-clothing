@@ -12,7 +12,7 @@ export const CategoryContainer = styled.div`
     grid-row-gap: 25px;
   }
 
-  @media screen and (min-width: 799px) {
+  @media screen and (max-width: 400px) {
     grid-template-columns: 1fr;
     grid-row-gap: 25px;
   }
