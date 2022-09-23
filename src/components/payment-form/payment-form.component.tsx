@@ -66,7 +66,7 @@ const PaymentForm = () => {
       alert('There was an error with the transation');
     } else {
       if (paymentResult.paymentIntent.status === 'succeeded') {
-        alert('Payment Successful');
+        alert('Test Payment Successful. Thanks for testing the app!');
       }
       else {
         alert('Opps! Something went wrong on our server.')
